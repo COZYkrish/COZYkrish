@@ -1,4 +1,4 @@
 - 👋 Hi, I'm Krish Sharma
-- 👁️ I'm intreseted in cyber security.
+- 👁️ I'm intreseted in software devlopment.
 - 🌱 I'm currently pursuing BCA.
 -  🏫 Student at Centurion University Technology and Management - India

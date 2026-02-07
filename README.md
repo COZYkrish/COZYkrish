@@ -96,10 +96,11 @@ I enjoy learning how applications move from **local systems to the cloud** — f
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=COZYkrish&show_icons=true&theme=highcontrast&cache_seconds=86400" />
   <br><br>
-  <img src="https://streak-stats.demolab.com?user=COZYkrish&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=COZYkrish&theme=radical" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=COZYkrish&layout=compact&theme=highcontrast" />
 </p>
+
 
 
 

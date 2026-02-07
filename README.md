@@ -96,7 +96,8 @@ I enjoy learning how applications move from **local systems to the cloud** — f
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=COZYkrish&show_icons=true&theme=highcontrast)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=COZYkrish&theme=highcontrast)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=COZYkrish&theme=radical)
+
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=COZYkrish&layout=compact&theme=highcontrast)
 

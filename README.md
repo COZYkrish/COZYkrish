@@ -81,7 +81,8 @@ I enjoy learning how applications move from **local systems to the cloud** — f
 ⭐ *Feel free to explore my repositories and connect with me!*
 
 <p align="center">
-  <img src="COZYkrish-space-shooter.gif" width="600" />
+  <img src="https://raw.githubusercontent.com/COZYkrish/COZYkrish/main/COZYkrish-space-shooter.gif" width="600" />
+
 
 </p>
 

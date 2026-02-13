@@ -97,6 +97,7 @@ I enjoy learning how applications move from **local systems to the cloud** — f
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=COZYkrish&show_icons=true&theme=highcontrast" />
   <br><br>
+  
 ![](https://nirzak-streak-stats.vercel.app/?user=COZYkrish&theme=highcontrast&hide_border=false)
   <br><br>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=COZYkrish&layout=compact&theme=highcontrast" />

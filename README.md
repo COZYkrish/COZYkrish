@@ -158,18 +158,38 @@ Currently, I'm going deep on **cloud computing** and **AI integration**, learnin
 ## ◈ SKILL ARCHITECTURE
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#7c3aed', 'edgeColor': '#00d4ff', 'tertiaryColor': '#0d1117'}}}%%
-radar
-    title Engineering Specializations
-    "Full Stack Dev" : 85
-    "Backend Systems" : 80
-    "Cloud Computing" : 70
-    "UI/UX Engineering" : 78
-    "Data Analytics" : 72
-    "AI Integration" : 65
-    "System Design" : 73
-    "DevOps" : 60
+%%{init: {'theme': 'dark'}}%%
+quadrantChart
+    title Engineering Specialization Map
+    x-axis Low Complexity --> High Complexity
+    y-axis Foundational --> Advanced
+    quadrant-1 Expert Zone
+    quadrant-2 Deep Specialist
+    quadrant-3 Building Up
+    quadrant-4 Applied Skills
+    Full Stack Dev: [0.80, 0.85]
+    Backend Systems: [0.75, 0.80]
+    UI/UX Engineering: [0.60, 0.78]
+    Dashboard Systems: [0.65, 0.72]
+    System Design: [0.85, 0.73]
+    Cloud Computing: [0.88, 0.70]
+    Data Analytics: [0.70, 0.72]
+    AI Integration: [0.90, 0.65]
+    DevOps: [0.82, 0.60]
 ```
+
+**Skill Proficiency:**
+
+| Skill | Proficiency |
+|---|---|
+| Full Stack Development | `████████████████░░░░` 85% |
+| Backend Engineering | `███████████████░░░░░` 80% |
+| UI/UX Engineering | `████████████████░░░░` 78% |
+| System Design | `██████████████░░░░░░` 73% |
+| Data Analytics | `██████████████░░░░░░` 72% |
+| Cloud Computing | `██████████████░░░░░░` 70% |
+| AI Integration | `█████████████░░░░░░░` 65% |
+| DevOps | `████████████░░░░░░░░` 60% |
 
 ```mermaid
 %%{init: {'theme': 'dark'}}%%

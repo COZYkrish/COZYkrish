@@ -159,398 +159,125 @@ Currently, I'm going deep on **cloud computing** and **AI integration**, learnin
 
 ```mermaid
 %%{init: {'theme': 'dark'}}%%
-quadrantChart
-    title Engineering Specialization Map
-    x-axis Low Complexity --> High Complexity
-    y-axis Foundational --> Advanced
-    quadrant-1 Expert Zone
-    quadrant-2 Deep Specialist
-    quadrant-3 Building Up
-    quadrant-4 Applied Skills
-    Full Stack Dev: [0.80, 0.85]
-    Backend Systems: [0.75, 0.80]
-    UI/UX Engineering: [0.60, 0.78]
-    Dashboard Systems: [0.65, 0.72]
-    System Design: [0.85, 0.73]
-    Cloud Computing: [0.88, 0.70]
-    Data Analytics: [0.70, 0.72]
-    AI Integration: [0.90, 0.65]
-    DevOps: [0.82, 0.60]
+xychart-beta
+    title "Engineering Proficiency Index"
+    x-axis ["Full Stack", "Backend", "UI/UX", "System Design", "Data Analytics", "Cloud", "AI/ML", "DevOps"]
+    y-axis "Proficiency (%)" 0 --> 100
+    bar [85, 80, 78, 73, 72, 70, 65, 60]
 ```
 
-**Skill Proficiency:**
+| Domain | Proficiency |
+|:---|:---|
+| 🌐 Full Stack Development | `████████████████░░░░` **85%** |
+| ⚙️ Backend Engineering | `███████████████░░░░░` **80%** |
+| 🎨 UI/UX Engineering | `███████████████░░░░░` **78%** |
+| 🏗️ System Design | `██████████████░░░░░░` **73%** |
+| 📊 Data Analytics | `██████████████░░░░░░` **72%** |
+| ☁️ Cloud Computing | `██████████████░░░░░░` **70%** |
+| 🤖 AI Integration | `█████████████░░░░░░░` **65%** |
+| 🔧 DevOps | `████████████░░░░░░░░` **60%** |
 
-| Skill | Proficiency |
-|---|---|
-| Full Stack Development | `████████████████░░░░` 85% |
-| Backend Engineering | `███████████████░░░░░` 80% |
-| UI/UX Engineering | `████████████████░░░░` 78% |
-| System Design | `██████████████░░░░░░` 73% |
-| Data Analytics | `██████████████░░░░░░` 72% |
-| Cloud Computing | `██████████████░░░░░░` 70% |
-| AI Integration | `█████████████░░░░░░░` 65% |
-| DevOps | `████████████░░░░░░░░` 60% |
-
-```mermaid
-%%{init: {'theme': 'dark'}}%%
-graph TB
-    KRISH["⚡ KRISH SHARMA<br/>Full Stack Engineer"]
-
-    KRISH --> FE["🎨 FRONTEND<br/>React · JS · Tailwind · Angular"]
-    KRISH --> BE["⚙️ BACKEND<br/>Java/Spring · Python/FastAPI · Flask"]
-    KRISH --> CLOUD["☁️ CLOUD<br/>AWS · Azure · GCP · Linux"]
-    KRISH --> DATA["📊 DATA<br/>Pandas · Plotly · NumPy · Recharts"]
-    KRISH --> AI["🤖 AI/ML<br/>PyTorch · Scikit · LLM APIs"]
-    KRISH --> DB["🗄️ DATABASE<br/>MySQL · Firebase"]
-
-    FE --> PROJ1["Task Manager · Blog Platform · E-Commerce"]
-    BE --> PROJ2["Banking System · Complaint Platform · FLOAT-AI"]
-    CLOUD --> PROJ3["Scalable Deploy · Virtualization · Networking"]
-    DATA --> PROJ4["Study Analytics · Fitness Tracker · Expense Dashboard"]
-    AI --> PROJ5["FLOAT-AI Assistant · Study Behavior · Fintech Insights"]
-```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## ◈ PROJECT COMMAND CENTER
+## ◈ FEATURED PROJECTS
 
-> **10 Production-Grade Projects** — Each one a chapter in an engineering story.
+<div align="center">
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 〔01〕 TASK MANAGEMENT SYSTEM
+### 🏋️ FITNESS-ANALYZER
+**Kinetic Ether** — Flask-based fitness intelligence platform
 
-> *Productivity, engineered with precision.*
+ML-powered health tracking with cinematic frontend, predictive analytics, and personalized fitness insights.
 
-A modern task lifecycle platform built to manage workflows, track productivity, and organize projects with clean architecture and an intuitive interface.
+**Stack:** `Python` `Flask` `scikit-learn` `HTML/CSS`
 
-**✦ Core Features**
-- Full CRUD task operations with priority levels
-- Status-driven workflow: `TODO → IN_PROGRESS → REVIEW → DONE`
-- User authentication & session management
-- Dashboard with productivity insights
-
-**✦ Tech Stack:** `React` `Spring Boot` `MySQL` `Tailwind CSS`
+[![Repo](https://img.shields.io/badge/VIEW_REPO-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish/FITNESS-ANALYZER)
+![Stars](https://img.shields.io/github/stars/COZYkrish/FITNESS-ANALYZER?style=flat-square&color=7c3aed&labelColor=0d1117)
 
 ```mermaid
 %%{init: {'theme': 'dark'}}%%
 flowchart LR
-    U["👤 User"] --> UI["React UI"]
-    UI --> API["Spring Boot API"]
-    API --> AUTH["🔐 JWT Auth"]
-    API --> DB["MySQL DB"]
-    DB --> ANALYTICS["📊 Analytics Layer"]
-    ANALYTICS --> UI
-
-    subgraph "Task Lifecycle"
-        T1["📋 TODO"] --> T2["⚙️ IN PROGRESS"]
-        T2 --> T3["🔍 REVIEW"]
-        T3 --> T4["✅ DONE"]
-    end
+    LOG["📋 Activity\nInput"] --> ML["🤖 ML\nPrediction"]
+    ML --> INSIGHT["💡 Health\nInsights"]
+    INSIGHT --> DASH["📊 Dashboard\nUI"]
 ```
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish)
+</td>
+<td width="50%" valign="top">
 
----
+### 🛒 E-COMMERCE-WEB-APPLICATION
+**ShopZone** — Full-Stack E-Commerce Web Application
 
-### 〔02〕 BLOG PLATFORM
+End-to-end shopping platform with product catalog, cart engine, checkout workflows, and admin dashboard.
 
-> *Where ideas become digital experiences.*
+**Stack:** `JavaScript` `React` `Node.js` `MySQL`
 
-A dynamic content publishing platform with full CMS capabilities, supporting Markdown rendering, category management, and responsive reading experiences.
-
-**✦ Core Features**
-- Content creation & management interface
-- Dynamic article rendering with Markdown support
-- Category, tag, and author management
-- Comment system & social sharing
-
-**✦ Tech Stack:** `React` `Django/Flask` `MySQL` `CSS3`
-
-```mermaid
-%%{init: {'theme': 'dark'}}%%
-sequenceDiagram
-    Author->>CMS: Create Article
-    CMS->>Backend: POST /api/articles
-    Backend->>DB: Store Article + Metadata
-    DB-->>Backend: Confirm
-    Backend-->>CMS: Article ID
-    Reader->>Frontend: Request Article
-    Frontend->>Backend: GET /api/articles/:id
-    Backend->>DB: Fetch Content
-    DB-->>Backend: Article Data
-    Backend-->>Frontend: Rendered Content
-```
-
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish)
-
----
-
-### 〔03〕 E-COMMERCE WEB APPLICATION
-
-> *The complete online shopping engine.*
-
-A full-featured e-commerce platform with product catalog, cart engine, checkout workflows, and admin inventory management — built for scale.
-
-**✦ Core Features**
-- Product catalog with search, filter, sorting
-- Cart & wishlist system
-- Secure checkout workflow
-- Admin dashboard: inventory, orders, analytics
-- User auth + order history
-
-**✦ Tech Stack:** `React` `Spring Boot` `MySQL` `Tailwind CSS`
-
-```mermaid
-%%{init: {'theme': 'dark'}}%%
-flowchart TD
-    USER["👤 Customer"] --> BROWSE["🛍️ Browse Products"]
-    BROWSE --> CART["🛒 Add to Cart"]
-    CART --> AUTH{"Logged In?"}
-    AUTH -- No --> LOGIN["🔐 Login/Register"]
-    LOGIN --> CHECKOUT
-    AUTH -- Yes --> CHECKOUT["💳 Checkout"]
-    CHECKOUT --> PAYMENT["💰 Payment Gateway"]
-    PAYMENT --> ORDER["📦 Order Created"]
-    ORDER --> NOTIFY["📧 Email Notification"]
-    ORDER --> INVENTORY["📊 Update Inventory"]
-    INVENTORY --> ADMIN["👨‍💼 Admin Dashboard"]
-```
-
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish)
-
----
-
-### 〔04〕 FLOAT-AI — THE VOICE OF YOUR DESKTOP
-
-> *The future of human-computer interaction.*
-
-An AI-powered desktop assistant with voice recognition, natural language processing, and intelligent response capabilities — designed for immersive, hands-free computer control.
-
-**✦ Core Features**
-- Real-time voice input & speech recognition
-- NLP-powered intent classification
-- System control commands (open apps, search, etc.)
-- Conversational memory & context retention
-- Futuristic HUD interface
-
-**✦ Tech Stack:** `Python` `LLM APIs` `Speech Recognition` `FastAPI` `Electron/Tkinter`
+[![Repo](https://img.shields.io/badge/VIEW_REPO-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish/E-COMMERCE-WEB-APPLICATION)
+![Stars](https://img.shields.io/github/stars/COZYkrish/E-COMMERCE-WEB-APPLICATION?style=flat-square&color=7c3aed&labelColor=0d1117)
 
 ```mermaid
 %%{init: {'theme': 'dark'}}%%
 flowchart LR
-    VOICE["🎤 Voice Input"] --> STT["Speech-to-Text Engine"]
-    STT --> NLP["🧠 NLP Intent Classifier"]
-    NLP --> ROUTER{"Intent Router"}
-    ROUTER --> SYS["⚙️ System Commands"]
-    ROUTER --> LLM["🤖 LLM Response Engine"]
-    ROUTER --> SEARCH["🔍 Web Search"]
-    SYS --> ACTION["Execute Action"]
-    LLM --> TTS["🔊 Text-to-Speech"]
-    SEARCH --> TTS
-    ACTION --> TTS
-    TTS --> USER["👤 User Response"]
+    USER["👤 User"] --> CART["🛒 Cart\nEngine"]
+    CART --> CHECKOUT["💳 Checkout"]
+    CHECKOUT --> ORDER["📦 Order\nCreated"]
 ```
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 📝 BLOG-PLATFORM
+**LuminaBlog** — Production-Style Blogging Platform
 
-### 〔05〕 SMART COMPLAINT SERVICE PLATFORM
+MERN stack CMS with authentication, blog publishing, comments, likes, bookmarks, dashboard analytics, and Cloudinary image support.
 
-> *Enterprise complaint intelligence, engineered.*
+**Stack:** `JavaScript` `React` `Node.js` `MongoDB`
 
-An enterprise-grade complaint lifecycle management system with role-based access, escalation workflows, and admin analytics — designed for institutional deployment.
-
-**✦ Core Features**
-- Multi-role system: User / Agent / Admin
-- Complaint lifecycle: `SUBMITTED → ASSIGNED → IN_REVIEW → RESOLVED`
-- Escalation triggers with automated routing
-- Admin dashboard with SLA tracking
-- Secure JWT authentication
-
-**✦ Tech Stack:** `React` `Spring Boot` `MySQL` `JWT`
-
-```mermaid
-%%{init: {'theme': 'dark'}}%%
-stateDiagram-v2
-    [*] --> Submitted
-    Submitted --> Assigned : Admin assigns to agent
-    Assigned --> InReview : Agent begins review
-    InReview --> Escalated : SLA breach detected
-    InReview --> Resolved : Issue resolved
-    Escalated --> InReview : Senior agent takes over
-    Resolved --> Closed : User confirms
-    Closed --> [*]
-```
-
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish)
-
----
-
-### 〔06〕 STUDY BEHAVIOR ANALYSIS
-
-> *Data science meets education.*
-
-An analytics-driven platform that tracks learning behavior, visualizes study patterns, and generates actionable insights to improve academic performance.
-
-**✦ Core Features**
-- Study session logging & time tracking
-- Behavioral pattern recognition with ML
-- Interactive visualizations (heatmaps, trend lines)
-- Personalized performance insights
-- Weekly/monthly analytics reports
-
-**✦ Tech Stack:** `Python` `Pandas` `Plotly` `scikit-learn` `Flask` `React`
-
-```mermaid
-%%{init: {'theme': 'dark'}}%%
-flowchart TD
-    INPUT["📝 Raw Study Data"] --> CLEAN["🧹 Data Preprocessing"]
-    CLEAN --> FEATURE["🔧 Feature Engineering"]
-    FEATURE --> ML["🤖 ML Model"]
-    FEATURE --> STATS["📊 Statistical Analysis"]
-    ML --> INSIGHTS["💡 Behavioral Insights"]
-    STATS --> INSIGHTS
-    INSIGHTS --> DASH["📈 React Dashboard"]
-    DASH --> USER["👤 Student/Educator"]
-```
-
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish)
-
----
-
-### 〔07〕 FITNESS ANALYZER
-
-> *Your health, quantified.*
-
-A comprehensive health analytics platform that tracks fitness activities, monitors progress over time, and delivers personalized insights through data visualization.
-
-**✦ Core Features**
-- Activity logging: workouts, steps, calories
-- Progress trend visualization (Plotly/Recharts)
-- Goal setting with milestone tracking
-- BMI, calorie, and fitness score calculators
-- Personalized recommendation engine
-
-**✦ Tech Stack:** `React` `Python/FastAPI` `MySQL` `Recharts` `Pandas`
+[![Repo](https://img.shields.io/badge/VIEW_REPO-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish/BLOG-PLATFORM)
+![Stars](https://img.shields.io/github/stars/COZYkrish/BLOG-PLATFORM?style=flat-square&color=7c3aed&labelColor=0d1117)
 
 ```mermaid
 %%{init: {'theme': 'dark'}}%%
 flowchart LR
-    LOG["📋 Activity Log"] --> API["FastAPI Backend"]
-    API --> DB["MySQL Storage"]
-    DB --> ANALYTICS["📊 Analytics Engine"]
-    ANALYTICS --> RECO["🤖 Recommendation Model"]
-    RECO --> INSIGHTS["💡 Personalized Insights"]
-    INSIGHTS --> DASH["📈 Dashboard UI"]
+    AUTHOR["✍️ Author"] --> CMS["📝 CMS\nEditor"]
+    CMS --> PUBLISH["🌐 Publish"]
+    PUBLISH --> READER["👀 Reader\nFeed"]
 ```
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish)
+</td>
+<td width="50%" valign="top">
 
----
+### 🤖 FLOAT-AI — Voice of Your Desktop
+**Float above the busy work.** AI-powered desktop assistant with voice control, NLP intent routing, and hands-free system interaction.
 
-### 〔08〕 MODERN EXPENSE TRACKER
+*"Listen. Understand. Act."*
 
-> *Financial clarity, beautifully visualized.*
+**Stack:** `Python` `LLM APIs` `Speech Recognition` `FastAPI`
 
-A personal finance platform with budgeting workflows, expense categorization, analytics dashboards, and trend insights — built for real financial clarity.
-
-**✦ Core Features**
-- Expense CRUD with category tagging
-- Budget vs. actual tracking with alerts
-- Trend charts: monthly, weekly, categorical
-- Income vs. expense balance engine
-- Export reports (PDF/CSV)
-
-**✦ Tech Stack:** `React` `Flask/FastAPI` `MySQL` `Recharts` `Tailwind`
-
-```mermaid
-%%{init: {'theme': 'dark'}}%%
-flowchart TD
-    ADD["➕ Add Expense"] --> CATEGORIZE["🏷️ Auto-Categorize"]
-    CATEGORIZE --> DB["💾 Store in MySQL"]
-    DB --> AGGREGATE["⚙️ Aggregation Engine"]
-    AGGREGATE --> BUDGET{"Budget Check"}
-    BUDGET -- Over Limit --> ALERT["🚨 Alert User"]
-    BUDGET -- Within Limit --> CHART["📊 Update Dashboard"]
-    ALERT --> CHART
-    CHART --> INSIGHTS["💡 Monthly Insights"]
-```
-
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish)
-
----
-
-### 〔09〕 ONLINE BANKING SYSTEM
-
-> *Enterprise-grade banking simulation.*
-
-A secure, full-featured banking simulation platform with JWT authentication, transaction processing, account management, and an enterprise-grade backend architecture.
-
-**✦ Core Features**
-- Multi-account management (savings, current)
-- Secure fund transfers with balance validation
-- Transaction history with filtering
-- JWT + Role-based access control
-- Admin oversight dashboard
-
-**✦ Tech Stack:** `React` `Spring Boot` `MySQL` `JWT` `BCrypt`
-
-```mermaid
-%%{init: {'theme': 'dark'}}%%
-sequenceDiagram
-    User->>Frontend: Login Request
-    Frontend->>AuthService: POST /auth/login
-    AuthService->>DB: Validate Credentials (BCrypt)
-    DB-->>AuthService: User Object
-    AuthService-->>Frontend: JWT Token
-    Frontend->>BankingAPI: Transfer Request + JWT
-    BankingAPI->>AuthService: Validate Token
-    AuthService-->>BankingAPI: Authorized
-    BankingAPI->>DB: Debit Source + Credit Target
-    DB-->>BankingAPI: Transaction ID
-    BankingAPI-->>Frontend: Success + Updated Balance
-```
-
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish)
-
----
-
-### 〔10〕 FINTECH DASHBOARD
-
-> *The future of financial intelligence.*
-
-A cinematic fintech analytics dashboard with real-time KPI tracking, transaction insights, portfolio analytics, and a futuristic glassmorphic UI — built to impress.
-
-**✦ Core Features**
-- Real-time KPI cards: revenue, growth, churn
-- Transaction timeline with anomaly detection
-- Portfolio allocation charts (donut, treemap)
-- Predictive trend analysis
-- Dark glassmorphic dashboard UI
-
-**✦ Tech Stack:** `React` `Recharts/Plotly` `FastAPI` `Tailwind CSS` `Python`
+[![Repo](https://img.shields.io/badge/VIEW_REPO-%230d1117.svg?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/COZYkrish/FLOAT-AI_The-voice-of-your-desktop.)
+![Stars](https://img.shields.io/github/stars/COZYkrish/FLOAT-AI_The-voice-of-your-desktop.?style=flat-square&color=a78bfa&labelColor=0d1117)
 
 ```mermaid
 %%{init: {'theme': 'dark'}}%%
 flowchart LR
-    FEED["📡 Data Feed"] --> PIPELINE["⚙️ Python Pipeline"]
-    PIPELINE --> TRANSFORM["🔄 Transform & Aggregate"]
-    TRANSFORM --> API["FastAPI Layer"]
-    API --> CACHE["⚡ Cache Layer"]
-    CACHE --> REACT["⚛️ React Dashboard"]
-    REACT --> KPI["📊 KPI Cards"]
-    REACT --> CHARTS["📈 Analytics Charts"]
-    REACT --> TABLE["📋 Transaction Table"]
-    REACT --> ALERTS["🚨 Anomaly Alerts"]
+    VOICE["🎤 Voice\nInput"] --> NLP["🧠 NLP\nIntent"]
+    NLP --> AI["🤖 LLM\nEngine"]
+    AI --> ACTION["⚡ System\nAction"]
 ```
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish)
+</td>
+</tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ---
 

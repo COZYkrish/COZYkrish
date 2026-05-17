@@ -389,7 +389,6 @@ timeline
 <div align="center">
 
 <!-- CONTRIBUTION SNAKE ANIMATION -->
-![Snake Animation](https://raw.githubusercontent.com/COZYkrish/COZYkrish/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 

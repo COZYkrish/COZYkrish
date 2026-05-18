@@ -67,7 +67,7 @@ currently_learning:
 </td>
 <td width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/COZYkrish/COZYkrish/main/COZYkrish-space-shooter.gif" width="100%" style="border-radius: 12px"/>
+<img src="COZYkrish-space-shooter (1).gif" width="100%" style="border-radius: 12px"/>
 
 <br>
 

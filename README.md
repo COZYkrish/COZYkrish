@@ -376,7 +376,7 @@ timeline
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=COZYkrish&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=COZYkrish&theme=github_dark&utcOffset=5.5)
 
 </div>
 

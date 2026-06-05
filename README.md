@@ -15,7 +15,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=COZYkrish&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=00d4ff)
 [![GitHub Followers](https://img.shields.io/github/followers/COZYkrish?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=0d1117&labelColor=7c3aed)](https://github.com/COZYkrish)
-[![GitHub Stars](https://img.shields.io/github/stars/COZYkrish?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=0d1117&labelColor=06b6d4)](https://github.com/COZYkrish)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=COZYkrish&theme=github_dark)
 
 </div>
 

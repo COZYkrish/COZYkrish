@@ -190,43 +190,43 @@ xychart-beta
 <tr>
 <td width="50%" valign="top">
 
-### 🏋️ FITNESS-ANALYZER
-**Kinetic Ether** — Flask-based fitness intelligence platform
+### 🎯 SMART-COMPLAINT-SERVICE-PLATFORM
+**Smart Complaint Service Platform** — Premium SaaS complaint management platform
 
-ML-powered health tracking with cinematic frontend, predictive analytics, and personalized fitness insights.
+Production-grade complaint management system with real-time Socket.io updates, 3D WebGL hero animations, JWT auth, email notifications, and admin analytics dashboard.
 
-**Stack:** `Python` `Flask` `scikit-learn` `HTML/CSS`
+**Stack:** `React` `Node.js` `Express` `MongoDB` `Socket.io`
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish/FITNESS-ANALYZER)
-![Stars](https://img.shields.io/github/stars/COZYkrish/FITNESS-ANALYZER?style=flat-square&color=7c3aed&labelColor=0d1117)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish/Smart-Complaint-Service-Platform)
+![Stars](https://img.shields.io/github/stars/COZYkrish/Smart-Complaint-Service-Platform?style=flat-square&color=7c3aed&labelColor=0d1117)
 
 ```mermaid
 %%{init: {'theme': 'dark'}}%%
 flowchart LR
-    LOG["📋 Activity\nInput"] --> ML["🤖 ML\nPrediction"]
-    ML --> INSIGHT["💡 Health\nInsights"]
-    INSIGHT --> DASH["📊 Dashboard\nUI"]
+    USER["👤 User\nSubmits"] --> RT["📡 Real-Time\nBroadcast"]
+    RT --> ADMIN["🛠️ Admin\nResolves"]
+    ADMIN --> NOTIFY["📧 Email\nNotify"]
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 E-COMMERCE-WEB-APPLICATION
-**ShopZone** — Full-Stack E-Commerce Web Application
+### 🧬 GITINSIGHT-AI
+**GitInsight AI** — Transform Your GitHub Into Career Intelligence
 
-End-to-end shopping platform with product catalog, cart engine, checkout workflows, and admin dashboard.
+AI-powered developer intelligence platform that analyzes GitHub profiles to generate Developer DNA™, portfolio scores, AI recruiter simulations, and auto-generated resumes.
 
-**Stack:** `JavaScript` `React` `Node.js` `MySQL`
+**Stack:** `React` `TypeScript` `Node.js` `MongoDB` `Gemini AI`
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish/E-COMMERCE-WEB-APPLICATION)
-![Stars](https://img.shields.io/github/stars/COZYkrish/E-COMMERCE-WEB-APPLICATION?style=flat-square&color=7c3aed&labelColor=0d1117)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish/GITINSIGHT-AI)
+![Stars](https://img.shields.io/github/stars/COZYkrish/GITINSIGHT-AI?style=flat-square&color=7c3aed&labelColor=0d1117)
 
 ```mermaid
 %%{init: {'theme': 'dark'}}%%
 flowchart LR
-    USER["👤 User"] --> CART["🛒 Cart\nEngine"]
-    CART --> CHECKOUT["💳 Checkout"]
-    CHECKOUT --> ORDER["📦 Order\nCreated"]
+    GH["🐙 GitHub\nData"] --> AI["🤖 Gemini\nAnalysis"]
+    AI --> DNA["🧬 Developer\nDNA"]
+    DNA --> REPORT["📊 Career\nReport"]
 ```
 
 </td>
@@ -234,22 +234,22 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 
-### 📝 BLOG-PLATFORM
-**LuminaBlog** — Production-Style Blogging Platform
+### 🗺️ ROUTEWISE-LAB
+**Routewise Lab** — Real-World Graph Algorithm Visualization Platform
 
-MERN stack CMS with authentication, blog publishing, comments, likes, bookmarks, dashboard analytics, and Cloudinary image support.
+Interactive platform visualizing Dijkstra, A*, Greedy BFS, and Bidirectional search algorithms operating live on real OpenStreetMap road network data.
 
-**Stack:** `JavaScript` `React` `Node.js` `MongoDB`
+**Stack:** `React` `TypeScript` `Leaflet` `Zustand` `Vite`
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish/BLOG-PLATFORM)
-![Stars](https://img.shields.io/github/stars/COZYkrish/BLOG-PLATFORM?style=flat-square&color=7c3aed&labelColor=0d1117)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-%230d1117.svg?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/COZYkrish/ROUTEWISE-LAB-Flagship-Real-World-Graph-Algorithm-Visualization-Platform)
+![Stars](https://img.shields.io/github/stars/COZYkrish/ROUTEWISE-LAB-Flagship-Real-World-Graph-Algorithm-Visualization-Platform?style=flat-square&color=7c3aed&labelColor=0d1117)
 
 ```mermaid
 %%{init: {'theme': 'dark'}}%%
 flowchart LR
-    AUTHOR["✍️ Author"] --> CMS["📝 CMS\nEditor"]
-    CMS --> PUBLISH["🌐 Publish"]
-    PUBLISH --> READER["👀 Reader\nFeed"]
+    MAP["🗺️ Real Map\nData"] --> ALGO["🧠 Algorithm\nEngine"]
+    ALGO --> EVENT["⚡ Live\nEvents"]
+    EVENT --> PATH["🏁 Shortest\nPath"]
 ```
 
 </td>

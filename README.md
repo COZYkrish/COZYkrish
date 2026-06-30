@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/29498047/README.2.md)
+
 <div align="center">
 
 <!-- ANIMATED TYPING HERO -->

@@ -1,3 +1,4 @@
+[README (2).md](https://github.com/user-attachments/files/29498047/README.2.md)
 <div align="center">
 
 <!-- ANIMATED TYPING HERO -->
@@ -155,27 +156,40 @@ Currently, I'm going deep on **cloud computing** and **AI integration**, learnin
 
 ---
 
-## ◈ SKILL ARCHITECTURE
+## ◈ CURRENTLY BUILDING
 
-```mermaid
-%%{init: {'theme': 'dark'}}%%
-xychart-beta
-    title "Engineering Proficiency Index"
-    x-axis ["Full Stack", "Backend", "UI/UX", "System Design", "Data Analytics", "Cloud", "AI/ML", "DevOps"]
-    y-axis "Proficiency (%)" 0 --> 100
-    bar [85, 80, 78, 73, 72, 70, 65, 60]
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👾 `> status --live`
+
+```yaml
+status: "🟢 Available for collaboration"
+currently_building: "AI/ML powered systems"
+currently_learning:
+  - "Kubernetes & container orchestration"
+  - "Serverless architecture patterns"
+  - "Advanced LLM integration"
+
+active_focus: "AI Integration · Cloud Engineering"
+mode: "Shipping > Perfecting"
+coffee_level: "████████░░ 80%"
+
+currently_solving: "DSA — sharpening problem-solving daily"
+next_up: "TBD — always cooking something"
 ```
 
-| Domain | Proficiency |
-|:---|:---|
-| 🌐 Full Stack Development | `████████████████░░░░` **85%** |
-| ⚙️ Backend Engineering | `███████████████░░░░░` **80%** |
-| 🎨 UI/UX Engineering | `███████████████░░░░░` **78%** |
-| 🏗️ System Design | `██████████████░░░░░░` **73%** |
-| 📊 Data Analytics | `██████████████░░░░░░` **72%** |
-| ☁️ Cloud Computing | `██████████████░░░░░░` **70%** |
-| 🤖 AI Integration | `█████████████░░░░░░░` **65%** |
-| 🔧 DevOps | `████████████░░░░░░░░` **60%** |
+> *"Currently deep in the terminal, probably debugging something at 2 AM."*
+
+</td>
+<td width="45%" align="center">
+
+<img src="./assets/coding-vibe.gif" width="100%" style="border-radius: 12px"/>
+
+</td>
+</tr>
+</table>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

@@ -185,7 +185,7 @@ next_up: "TBD — always cooking something"
 </td>
 <td width="45%" align="center">
 
-<img src="coding-vibe.gif" width="100%" style="border-radius: 12px"/>
+<img src="./assets/coding-vibe.gif" width="100%" style="border-radius: 12px"/>
 
 </td>
 </tr>
@@ -460,17 +460,12 @@ I believe in:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=LET'S%20BUILD%20THE%20FUTURE%20TOGETHER&fontSize=24&fontColor=00d4ff&animation=twinkling&fontAlignY=65" width="100%"/>
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   "The code you write today is the infrastructure of tomorrow."      ║
-║                                         — COZYkrish                  ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
 ![Made with](https://img.shields.io/badge/Made%20with-Passion%20%26%20Code-%230d1117?style=for-the-badge&logo=heart&logoColor=a78bfa)
 ![Powered by](https://img.shields.io/badge/Powered%20by-Coffee%20%26%20Curiosity-%230d1117?style=for-the-badge&logo=coffeescript&logoColor=00d4ff)
+
+<br>
+
+<img src="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%"/>
 
 </div>
 

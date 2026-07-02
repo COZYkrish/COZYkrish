@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- ANIMATED TYPING HERO -->
@@ -185,7 +184,7 @@ next_up: "TBD — always cooking something"
 </td>
 <td width="45%" align="center">
 
-<img src="coding-vibe.gif" width="100%" style="border-radius: 12px"/>
+<img src="./assets/coding-vibe.gif" width="100%" style="border-radius: 12px"/>
 
 </td>
 </tr>
@@ -295,46 +294,48 @@ flowchart LR
 
 ---
 
-## ◈ CLOUD ENGINEERING MATRIX
+## ◈ AI/ML ENGINEERING MATRIX
 
 ```mermaid
 %%{init: {'theme': 'dark'}}%%
 graph TB
-    CLOUD["☁️ CLOUD ARCHITECTURE"] --> IaaS["🖥️ IaaS<br/>Virtual Machines<br/>Storage · Networking"]
-    CLOUD --> PaaS["⚙️ PaaS<br/>App Services<br/>Managed Databases"]
-    CLOUD --> SaaS["📦 SaaS<br/>Deployed Applications<br/>End-User Products"]
+    AI["🤖 AI/ML ARCHITECTURE"] --> DATA["📊 Data Layer<br/>Collection · Cleaning<br/>Feature Engineering"]
+    AI --> MODEL["🧠 Model Layer<br/>Training · Evaluation<br/>Hyperparameter Tuning"]
+    AI --> DEPLOY["🚀 Deployment Layer<br/>Inference · APIs<br/>Monitoring"]
 
-    IaaS --> AWS["🟠 AWS<br/>EC2 · S3 · IAM"]
-    IaaS --> AZURE["🔵 Azure<br/>VM · Blob · AD"]
-    IaaS --> GCP["🟡 GCP<br/>Compute · Storage"]
+    DATA --> TOOLS["🛠️ Data Tools<br/>Pandas · NumPy<br/>SciPy · Matplotlib"]
+    DATA --> SOURCES["📁 Data Sources<br/>Structured · Unstructured<br/>Real-time Streams"]
 
-    PaaS --> DEPLOY["🚀 Deployment<br/>Netlify · Cloudflare<br/>Apache · Tomcat"]
-    PaaS --> CONTAINER["📦 Containers<br/>Docker Basics<br/>Virtualization"]
+    MODEL --> CLASSICAL["📐 Classical ML<br/>scikit-learn<br/>Regression · Classification"]
+    MODEL --> DEEP["🔥 Deep Learning<br/>PyTorch<br/>Neural Networks"]
+    MODEL --> LLM["💬 LLM Integration<br/>Gemini · OpenAI APIs<br/>Prompt Engineering"]
 
-    SaaS --> APPS["🌐 Full Stack Apps<br/>Banking · Fintech<br/>E-Commerce · Analytics"]
+    DEPLOY --> APPS["🌐 AI-Powered Apps<br/>GitInsight AI · FLOAT-AI<br/>Fitness Analyzer"]
+    DEPLOY --> API["⚡ Inference APIs<br/>FastAPI · Flask<br/>REST Endpoints"]
 ```
 
-**Cloud Learning Roadmap:**
+**AI/ML Learning Roadmap:**
 
 ```mermaid
 %%{init: {'theme': 'dark'}}%%
 timeline
-    title Cloud Computing Journey
-    2023 : Cloud Fundamentals
-         : IaaS · PaaS · SaaS Concepts
-         : Networking & Virtualization Basics
-    2024 : AWS Foundations
-         : EC2 · S3 · IAM Basics
-         : Linux Administration
-         : First Cloud Deployments
-    2025 : Advanced Architecture
-         : Microservices & Containers
-         : Azure & GCP Exploration
-         : CI/CD Pipelines
-    2026 : Cloud-Native Engineering
-         : Kubernetes Basics
-         : Serverless Functions
-         : Cloud Security & Scalability
+    title AI/ML Engineering Journey
+    2023 : Foundations
+         : Python for Data Science
+         : NumPy · Pandas · Matplotlib
+         : Statistics & Linear Algebra
+    2024 : Classical ML
+         : scikit-learn · Model Building
+         : Regression · Classification · Clustering
+         : First ML Projects Shipped
+    2025 : Deep Learning & LLMs
+         : PyTorch · Neural Networks
+         : LLM API Integration
+         : FLOAT-AI & GitInsight AI Built
+    2026 : Advanced AI Engineering
+         : Fine-tuning & RAG Systems
+         : AI-Powered Full Stack Apps
+         : Agentic AI Workflows
 ```
 
 ---
@@ -465,7 +466,7 @@ I believe in:
 
 <br>
 
-<img src="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%"/>
+<img src="./assets/tech-banner.png" width="100%"/>
 
 </div>
 

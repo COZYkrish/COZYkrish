@@ -184,7 +184,7 @@ next_up: "TBD — always cooking something"
 </td>
 <td width="45%" align="center">
 
-<img src="./assets/coding-vibe.gif" width="100%" style="border-radius: 12px"/>
+<img src="coding-vibe.gif" width="100%" style="border-radius: 12px"/>
 
 </td>
 </tr>

@@ -385,8 +385,8 @@ timeline
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=COZYkrish&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=a78bfa&currStreakLabel=00d4ff)
-
+![GitHub Streak](https://streak-stats.demolab.com/?
+user=COZYkrish&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7c3aed&fire=a78bfa&currStreakLabel=00d4ff)
 </div>
 
 <div align="center">

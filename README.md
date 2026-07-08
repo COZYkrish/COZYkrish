@@ -466,7 +466,7 @@ I believe in:
 
 <br>
 
-<img src="./assets/tech-banner.png" width="100%"/>
+<img src="240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%"/>
 
 </div>
 

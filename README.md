@@ -378,8 +378,8 @@ timeline
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=COZYkrish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=a78bfa"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=COZYkrish&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a78bfa"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=COZYkrish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=a78bfa"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COZYkrish&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a78bfa"/>
 
 </div>
 

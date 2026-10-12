@@ -13,7 +13,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=COZYkrish&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS&labelColor=00d4ff)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCOZYkrish%2FCOZYkrish&count_bg=0D1117&title_bg=00D4FF&icon=github.svg&icon_color=FFFFFF&title=PROFILE+VIEWS&edge_flat=false)
 [![GitHub Followers](https://img.shields.io/github/followers/COZYkrish?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=0d1117&labelColor=7c3aed)](https://github.com/COZYkrish)
 [![GitHub Stars](https://img.shields.io/github/stars/COZYkrish?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=0d1117&labelColor=06b6d4)](https://github.com/COZYkrish)
 
@@ -71,7 +71,7 @@ currently_learning:
 
 <br>
 
-![Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=COZYkrish&bg_color=0d1117&color=00d4ff&line=7c3aed&point=a78bfa&area=true&hide_border=true)
+![Coding Activity](https://github-readme-activity-graph.vercel.app/graph?username=COZYkrish&theme=github-dark&area=true&hide_border=true&custom_title=COZYkrish%27s%20Coding%20Activity)
 
 </td>
 </tr>
@@ -397,7 +397,7 @@ timeline
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=COZYkrish&bg_color=0d1117&color=a78bfa&line=00d4ff&point=7c3aed&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=COZYkrish&theme=github-dark&area=true&hide_border=true&custom_title=COZYkrish%27s%20Coding%20Activity)
 
 </div>
 
